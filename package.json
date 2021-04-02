@@ -1,0 +1,23 @@
+{
+  "name": "corsproxy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kod8/corsproxy.git"
+  },
+  "author": "abdullah",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kod8/corsproxy/issues"
+  },
+  "homepage": "https://github.com/kod8/corsproxy#readme",
+  "dependencies": {
+    "cors-anywhere": "^0.4.4"
+  }
+}
